@@ -1,2 +1,1 @@
-# Linkedin-phishing
-Just Phishing 🎣
+# Just Phishing 🎣
